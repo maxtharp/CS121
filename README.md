@@ -7,4 +7,4 @@ CS121 portfolio
 | Week 11 | [Week 11 file](https://github.com/maxtharp/CS121/tree/main/Week%2011) | sort and search methods |
 | Week 12 | [Week 12 file](https://github.com/maxtharp/CS121/tree/main/Week%2012) | sets & interators, generics, and hashmaps |
 | Week 13 | [Week 13 file](https://github.com/maxtharp/CS121/tree/main/Week%2013) | linked lists, stacks and queues |
-| Week 14 | [Week 14 file]() | simple date format, testing, and stringbuilding |
+| Week 14 | [Week 14 file](https://github.com/maxtharp/CS121/tree/main/Week%2014) | simple date format, testing, and stringbuilding |
