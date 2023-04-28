@@ -2,4 +2,4 @@
 CS121 portfolio
 | Number | Repository | Description |
 | :----: | ------- | ----------- |
-| Activity 1 | hellow | How to write words |
+| Activity 1 | [Activity1 file]() | How to write words |
